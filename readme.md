@@ -10,7 +10,7 @@ This project uses the [Pomegranate](https://github.com/jmschrei/pomegranate) lib
   <img src="./_post-hmm.png"/>
 </p>
 
-The project is broken up into two Python notebooks
+The project is broken up into two Python notebooks:
 
 __HMM warmup (optional)__ : In this notebook, you'll use the Pomegranate library to build a simple Hidden Markov Model and explore the Pomegranate API.
 
