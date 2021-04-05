@@ -9,3 +9,9 @@ This project uses the [Pomegranate](https://github.com/jmschrei/pomegranate) lib
 <p align="center">
   <img src="./_post-hmm.png"/>
 </p>
+
+The project is broken up into a few main parts in two Python notebooks
+
+__HMM warmup (optional)__ : In this notebook, you'll use the Pomegranate library to build a simple Hidden Markov Model and explore the Pomegranate API.
+
+__HMM Tagger__ : Main notebook where you create the Part-of-Speech-Tagger.
